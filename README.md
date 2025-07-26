@@ -1,8 +1,7 @@
-# Website Profil dan Manajemen Sekolah SMK menggunakan CodeIgniter 4 Framework
+# Aplikasi Gerakan Disiplin Siswa (GDS) Sekolah SMK menggunakan CodeIgniter 4 Framework
 
 # 💫 PROFIL ADIKASA:
 Adidaya Kreasi Digital x ✨ bergerak ✨ pada Bidang Konsultan IT, Perancangan dan Pembuatan Website, Domain dan Hosting, Pendidikan & Pelatihan, Penerbitan Buku, Percetakan umum dan Desain Grafis, Software, Game dan Aplikasi lainnya. Seiring dengan pesatnya perkembangan teknologi dan keterkaitan nya dengan bidang usaha, Adiadayadigital.com hadir di dunia Teknologi Informasi untuk memberikan Solusi, Perencanaan, dan Strategi yang terintegerasi, sebagai nilai tambah yang maksimal bagi kebutuhan dan permasalahan dibidang Teknologi Informasi.<br><br>🔭 Projek yang sedang berjalan: @ultracomdeprasti, @smkn1gunungsindur, @depokhostinger.<br>📫 Hubungi Kami Adiadayadigital.com, +62 812 101 101 60, info@adidayadigital.com,<br>Medsos: Instagram, Facebook, Twitter,
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Adi-Daya/100088190787506) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adidayakreasidigital) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Adidayadigital) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCSK5Q3TLoyFAZSrVLSj7IiQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@adidayadigital.com) 
