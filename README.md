@@ -32,14 +32,11 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 
-
 ***********************************************
 VERSI !
 Sistem ini menggunakan "MySQLi query", 
 pastikan database server anda support mysqli
 ***********************************************
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 LANGKAH ALUR PENGGUNAAN SISTEM :
 1. Login sebagai admin
 2. Masukkan data guru
